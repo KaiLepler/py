@@ -9,3 +9,6 @@ References https://anaconda.org/ijstokes/python4science/notebook
 Python Tutorial - a good next step to learning Python (about a 2-3 hour commitment)
 https://docs.python.org/2/tutorial/
 Reserved Words: https://docs.python.org/2/reference/lexical_analysis.html#keywords
+
+Next: create and set up a Git Website using Markdown
+https://pages.github.com/
